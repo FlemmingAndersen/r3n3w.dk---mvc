@@ -40,3 +40,46 @@ C:\Users\FlemmingAndersen\Documents\Websites\r3n3w.dk - mvc\Renew\obj\Debug\Rene
 C:\Users\FlemmingAndersen\Documents\Websites\r3n3w.dk - mvc\Renew\obj\Debug\Renew.csproj.CoreCompileInputs.cache
 C:\Users\FlemmingAndersen\Documents\Websites\r3n3w.dk - mvc\Renew\obj\Debug\Renew.dll
 C:\Users\FlemmingAndersen\Documents\Websites\r3n3w.dk - mvc\Renew\obj\Debug\Renew.pdb
+C:\Users\Flemming\Documents\GitHub\r3n3w.dk---mvc\Renew\bin\ApplicationInsights.config
+C:\Users\Flemming\Documents\GitHub\r3n3w.dk---mvc\Renew\bin\Renew.dll.config
+C:\Users\Flemming\Documents\GitHub\r3n3w.dk---mvc\Renew\bin\Renew.dll
+C:\Users\Flemming\Documents\GitHub\r3n3w.dk---mvc\Renew\bin\Renew.pdb
+C:\Users\Flemming\Documents\GitHub\r3n3w.dk---mvc\Renew\bin\Antlr3.Runtime.dll
+C:\Users\Flemming\Documents\GitHub\r3n3w.dk---mvc\Renew\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Flemming\Documents\GitHub\r3n3w.dk---mvc\Renew\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Flemming\Documents\GitHub\r3n3w.dk---mvc\Renew\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Flemming\Documents\GitHub\r3n3w.dk---mvc\Renew\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Flemming\Documents\GitHub\r3n3w.dk---mvc\Renew\bin\Microsoft.AI.Web.dll
+C:\Users\Flemming\Documents\GitHub\r3n3w.dk---mvc\Renew\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Flemming\Documents\GitHub\r3n3w.dk---mvc\Renew\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Flemming\Documents\GitHub\r3n3w.dk---mvc\Renew\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Flemming\Documents\GitHub\r3n3w.dk---mvc\Renew\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Flemming\Documents\GitHub\r3n3w.dk---mvc\Renew\bin\Newtonsoft.Json.dll
+C:\Users\Flemming\Documents\GitHub\r3n3w.dk---mvc\Renew\bin\System.Web.Helpers.dll
+C:\Users\Flemming\Documents\GitHub\r3n3w.dk---mvc\Renew\bin\System.Web.Mvc.dll
+C:\Users\Flemming\Documents\GitHub\r3n3w.dk---mvc\Renew\bin\System.Web.Optimization.dll
+C:\Users\Flemming\Documents\GitHub\r3n3w.dk---mvc\Renew\bin\System.Web.Razor.dll
+C:\Users\Flemming\Documents\GitHub\r3n3w.dk---mvc\Renew\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Flemming\Documents\GitHub\r3n3w.dk---mvc\Renew\bin\System.Web.WebPages.dll
+C:\Users\Flemming\Documents\GitHub\r3n3w.dk---mvc\Renew\bin\System.Web.WebPages.Razor.dll
+C:\Users\Flemming\Documents\GitHub\r3n3w.dk---mvc\Renew\bin\WebGrease.dll
+C:\Users\Flemming\Documents\GitHub\r3n3w.dk---mvc\Renew\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Flemming\Documents\GitHub\r3n3w.dk---mvc\Renew\bin\System.Web.Helpers.xml
+C:\Users\Flemming\Documents\GitHub\r3n3w.dk---mvc\Renew\bin\System.Web.Mvc.xml
+C:\Users\Flemming\Documents\GitHub\r3n3w.dk---mvc\Renew\bin\System.Web.Optimization.xml
+C:\Users\Flemming\Documents\GitHub\r3n3w.dk---mvc\Renew\bin\System.Web.Razor.xml
+C:\Users\Flemming\Documents\GitHub\r3n3w.dk---mvc\Renew\bin\System.Web.WebPages.xml
+C:\Users\Flemming\Documents\GitHub\r3n3w.dk---mvc\Renew\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Flemming\Documents\GitHub\r3n3w.dk---mvc\Renew\bin\System.Web.WebPages.Razor.xml
+C:\Users\Flemming\Documents\GitHub\r3n3w.dk---mvc\Renew\bin\Antlr3.Runtime.pdb
+C:\Users\Flemming\Documents\GitHub\r3n3w.dk---mvc\Renew\bin\Newtonsoft.Json.xml
+C:\Users\Flemming\Documents\GitHub\r3n3w.dk---mvc\Renew\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Flemming\Documents\GitHub\r3n3w.dk---mvc\Renew\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Flemming\Documents\GitHub\r3n3w.dk---mvc\Renew\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Flemming\Documents\GitHub\r3n3w.dk---mvc\Renew\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Flemming\Documents\GitHub\r3n3w.dk---mvc\Renew\bin\Microsoft.AI.Web.xml
+C:\Users\Flemming\Documents\GitHub\r3n3w.dk---mvc\Renew\obj\Debug\Renew.csprojAssemblyReference.cache
+C:\Users\Flemming\Documents\GitHub\r3n3w.dk---mvc\Renew\obj\Debug\Renew.csproj.CoreCompileInputs.cache
+C:\Users\Flemming\Documents\GitHub\r3n3w.dk---mvc\Renew\obj\Debug\Renew.csproj.CopyComplete
+C:\Users\Flemming\Documents\GitHub\r3n3w.dk---mvc\Renew\obj\Debug\Renew.dll
+C:\Users\Flemming\Documents\GitHub\r3n3w.dk---mvc\Renew\obj\Debug\Renew.pdb
