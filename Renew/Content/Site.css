@@ -1,5 +1,4 @@
 ﻿body {
-    padding-top: 50px;
     padding-bottom: 20px;
 }
 
@@ -24,24 +23,75 @@ textarea {
 }
 
 /* Renew styling from here! */
+@font-face {
+    font-family: roboto-condensed;
+    src: url('fonts/roboto-condensed-v16-latin-regular.eot');
+    src: url('fonts/roboto-condensed-v16-latin-regular.eot?#iefix') format('embedded-opentype'),
+         url('fonts/roboto-condensed-v16-latin-regular.woff2') format('woff2'),
+         url('fonts/roboto-condensed-v16-latin-regular.woff') format('woff'),
+         url('fonts/roboto-condensed-v16-latin-regular.ttf') format('truetype'),
+         url('fonts/roboto-condensed-v16-latin-regular.svg') format('svg');
+}
+
+* {
+    font-family: roboto-condensed, sans-serif;
+}
+
 .navbar {
     background-color: #FFFFFF;
     border-color: #FFFFFF;
+    padding: 2em 0px;
+}
+
+.nav-item {
+    margin-left: 0.9em;
+}
+
+.nav-item > a {
+    color: #333;
+    padding: 0.8em 0.8em;
+    text-decoration: none;
+    font-size: 1.1em;
+}
+
+.nav-item.active > a {
+    background-color: #00959F;
+    color: #FFF;
 }
 
 .navbar-brand {
-    background-image: url(img/logo.png);
     background-size: cover;
     background-repeat: no-repeat;
     position: absolute;
-    top: 1em;
+    top: 0.5em;
     z-index: 1;
+    padding: 0px;
 }
 
 .jumbotron {
     background-image: url(img/banner_background.jpg);
     background-size: cover;
-    min-height: 400px;
+    min-height: 360px;
 }
 
+.product h2 {
+    color: #B1B1C1;
+    font-size: 1.8em;
+    font-weight: bold;
+    margin-bottom: 0.6em;
+}
+
+.product img {
+    margin-bottom: 1em;
+}
+
+.btn {
+    padding: 0.50em 1.5em;
+    background: #00959f;
+    border-radius: 1px;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 1.1em;
+    color: #FFF;
+}
 
