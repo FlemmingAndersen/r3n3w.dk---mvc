@@ -95,3 +95,12 @@ textarea {
     color: #FFF;
 }
 
+.recommendation {
+    background-color: #B1BCC6;
+}
+
+.recommendation-frame {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
